@@ -7,3 +7,5 @@ This is a high-quality Voice Pack for [Voice Attack](https://www.voiceattack.com
 ## Status
 As of [6th March 2016](https://forums.frontier.co.uk/showthread.php?t=126669&p=3650537&viewfull=1#post3650537), Arflint has stopped
 developing this Voice Pack and has ceded all rights to the Elite Dangerous community.
+
+As of April 2018 I (Dover) have started to work on maintaining the profile. Please feel free to submit feature requests. 
